@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 80" width="240" height="80" role="img" aria-label="VeilTrace">
+  <title>VeilTrace</title>
+  <!-- Canonical three-node trace mark (BRAND.md §4): record → trace → insight. -->
+  <g fill="none" stroke="#c9954a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 60 L30 30 L50 48"/>
+    <path d="M50 48 L78 55"/>
+    <path d="M78 55 L88 44" opacity="0.5"/>
+  </g>
+  <g fill="none" stroke="#c9954a" stroke-width="1.5">
+    <circle cx="10" cy="60" r="7"/>
+    <circle cx="30" cy="30" r="7"/>
+    <circle cx="78" cy="55" r="7"/>
+  </g>
+  <g fill="#c9954a">
+    <circle cx="10" cy="60" r="2.5"/>
+    <circle cx="30" cy="30" r="2.5"/>
+    <circle cx="78" cy="55" r="2.5"/>
+  </g>
+  <text x="110" y="50" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="22" font-weight="700" letter-spacing="0.02em" fill="#0f1424">VeilTrace</text>
+  <text x="110" y="67" font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="8" font-weight="400" letter-spacing="0.25em" fill="#5c5752">PROPERTY OWNERSHIP INTELLIGENCE</text>
+</svg>

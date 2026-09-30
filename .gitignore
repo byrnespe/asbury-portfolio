@@ -1,0 +1,20 @@
+# Defensive ignore — this repo must never carry secrets even by accident
+.env
+*.env
+.env.*
+!*.env.example
+*.key
+*.pem
+*.crt
+id_rsa*
+os.db
+os.db-*
+*.sqlite
+*.sqlite3
+messages.db
+*.log
+.DS_Store
+node_modules/
+.venv/
+__pycache__/
+*.pyc
